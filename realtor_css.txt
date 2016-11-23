@@ -1,0 +1,11 @@
+/* Set min height to zero on all elementor columns */
+.elementor-column{min-height:0 !important;}
+
+/* Sections styling */
+.for_sale{display:inline-block;}
+.for_sale p{margin-bottom:0;}
+.elementor-editor-active .for_sale{display:block;}
+.buy_sell_tabs .elementor-tabs{text-align:center;}
+.buy_sell_tabs .elementor-tabs .active{border-bottom:2px solid #ffffff;}
+.buy_sell_tabs .elementor-tabs .elementor-tab-title{display:inline-block !important;}
+.elementor-image .wp-caption .wp-caption-text{position: relative; background: none; padding: 0; color: #363244;}
